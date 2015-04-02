@@ -1,0 +1,1 @@
+pyturn is a simple python code generation tool made for cnc lathe operations. It produces 'g-code' with xz coordinates. pyturn will not generate drawings or dxf files- these files should be generated with some other CAD program (like Qcad). pyturn is meant to be very simple and easy to understand.
